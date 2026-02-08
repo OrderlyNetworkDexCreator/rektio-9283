@@ -98,3 +98,7 @@ html, body {
   font-family: 'Roboto', sans-serif !important;
   font-size: 15px !important;
 }
+
+.oui-scaffold-footer-powered-by { 
+  display: none; 
+}
