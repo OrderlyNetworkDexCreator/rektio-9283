@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets",
-  "VITE_CUSTOM_MENUS": "X, https://x.com/RektioDEX",
+  "VITE_CUSTOM_MENUS": "X, https://x.com/RektioDEX; Pumpfun, https://pump.fun/coin/CgghGMyu1cnSxP1GnZ5aurLrTbCQvH6vjABgZHMApump",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
