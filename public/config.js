@@ -18,10 +18,10 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Prepetual Meme DEX",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Leaderboard,Vaults,Portfolio,Markets,Rewards",
+  "VITE_ENABLED_MENUS": "Trading,Leaderboard,Portfolio,Markets",
   "VITE_CUSTOM_MENUS": "X, https://x.com/RektioDEX",
-  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
-  "VITE_ENABLE_CAMPAIGNS": "false",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
+  "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "https://x.com/RektioDEX",
@@ -38,7 +38,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
   "VITE_ANALYTICS_SCRIPT": "",
-  "VITE_SYMBOL_LIST": "PERP_SOL_USDC,PERP_BTC_USDC",
+  "VITE_SYMBOL_LIST": "PERP_SOL_USDC",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
 };
